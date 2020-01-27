@@ -7,6 +7,6 @@ get '/' do
   erb :index
 end
 
-post '/puppy'
+post '/puppy' do
 
 end
